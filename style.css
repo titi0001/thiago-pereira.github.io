@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(63, 81, 85, 0.233);
+}
+img , h1 {
+    border-radius: 20%; 
+    display: inline-block;
+    float: left;
+}
